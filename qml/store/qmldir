@@ -1,0 +1,2 @@
+singleton TermInformationStore 0.1 TermInformationStore.qml
+singleton TestStore 0.1 TestStore.qml

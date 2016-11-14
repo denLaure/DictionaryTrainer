@@ -1,0 +1,52 @@
+Name: harbour-dictionary-trainer
+Summary: Nice and simple application which allows you to test your knowledge of literary terms or even learn new words.
+Version: 1.0
+Release: 1
+# The contents of the Group field should be one of the groups listed here:
+# http://gitorious.org/meego-developer-tools/spectacle/blobs/master/data/GROUPS
+Group: Qt/Qt
+URL: http://fruct.org/
+License: MIT Licence
+Sources:
+- '%{name}-%{version}.tar.bz2'
+Description: |
+  Dictionary trainer is the application designed to help you to learn new terms and build your vocabulary.
+  Learning process consists of passing the test. There are three types of questions available.
+  In first type you are given a definition and you must chose an appropriate term for it.
+  Second one gives you a term and requires you to chose right definition.
+  Finally, there is a question which requires to enter answer manually.
+  The application provides you with built-in dictionary which contains definitions and example sentences for every word.
+  User progress is tracked, so you can see how much you have advanced in learning.
+Configure: none
+# The qtc5 builder inserts macros to allow QtCreator to have fine
+# control over qmake/make execution
+Builder: qtc5
+
+# This section specifies build dependencies that are resolved using pkgconfig.
+# This is the preferred way of specifying build dependencies for your package.
+PkgConfigBR:
+  - sailfishapp >= 1.0.2
+  - Qt5Core
+  - Qt5Qml
+  - Qt5Quick
+
+# Build dependencies without a pkgconfig setup can be listed here
+# PkgBR:
+#   - package-needed-to-build
+
+# Runtime dependencies which are not automatically detected
+Requires:
+  - sailfishsilica-qt5 >= 0.10.9 
+  - qt5-qtdeclarative-import-xmllistmodel
+
+# All installed files
+Files:
+  - '%{_bindir}'
+  - '%{_datadir}/%{name}'
+  - '%{_datadir}/%{name}/translations'
+  - '%{_datadir}/applications/%{name}.desktop'
+  - '%{_datadir}/icons/hicolor/*/apps/%{name}.png'
+
+# For more information about yaml and what's supported in Sailfish OS
+# build system, please see https://wiki.merproject.org/wiki/Spectacle
+

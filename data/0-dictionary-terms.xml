@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dictionary>
+    <term>
+        <name>
+          <text>Metaphor</text>
+        </name>
+        <description>The application of a word to an object it does not literary denote in order to suggest comparison with another object.</description>
+        <context>She is a real flower.</context>
+    </term>
+    <term>
+        <name>
+          <text>Trite metaphor</text>
+        </name>
+        <description>Metaphors so frequently employed that they have lost any expressive power.</description>
+        <context>Ruby lips, hair of gold, snow-white skin.</context>
+    </term>
+    <term>
+        <name>
+          <text>Puzzle</text>
+        </name>
+        <synonym>
+          <text>Riddle</text>
+        </synonym>
+        <description>A statement that requires thinking over a confusing or difficult problem that needs to be solved.</description>
+        <context>How many blocks of stone did it take to complete one of the pyramids?</context>
+    </term>
+    <term>
+        <name>
+          <text>Synecdoche</text>
+         </name>
+        <description>The mention of a part for the whole.</description>
+        <context>A fleet of 50 sail.</context>
+    </term>
+    <term>
+        <name>
+          <text>Metonymy</text>
+        </name>
+        <description>Substitution of one word for another on the basis of real connection.</description>
+        <context>Crown – sovereign</context>
+    </term>
+    <term>
+        <name>
+          <text>Catachresis</text>
+          <transcription>[ˌkætəˈkriːsɪs]</transcription>
+        </name>
+        <description>Misuse of a word due to the false folk etymology or wrong application of a term in a sense that does not belong to the word. This sort of misuse is mostly based on similarity in sound.</description>
+        <context>Disinterested (бескорыстный) – uninterested</context>
+    </term>
+    <term>
+        <name>
+          <text>Epithet</text>
+          <transcription>[ˈɛpɪθɛt]</transcription>
+        </name>
+        <description>A word or phrase used to describe someone or something with a purpose to praise or blame.</description>
+        <context>It was a lovely, summery evening.</context>
+    </term>
+    <term>
+        <name>
+          <text>Periphrasis</text>
+          <transcription>[pəˈrɪfrəsɪs]</transcription>
+        </name>
+        <description>Putting things in a round about way in order to bring out some important feature or explain more clearly the idea or situation described.</description>
+        <context>I got an Arab boy… and paid him twenty rupees a month, about thirty bob…</context>
+    </term>
+    <term>
+        <name>
+          <text>Hyperbole</text>
+          <transcription>[haɪˈpɜːbəlɪ]</transcription>
+        </name>
+        <description>Use of exaggerated terms for emphasis.</description>
+        <context>A thousand apologies</context>
+    </term>
+    <term>
+        <name>
+          <text>Anotomasia</text>
+          <transcription>[ˌæntɒnəˈmeɪzɪə]</transcription>
+        </name>
+        <description>Use of a proper name to express a general idea or conversely a common name for a proper one.</description>
+        <context>The Iron Lady</context>
+    </term>
+    <term>
+        <name>
+          <text>Epenalepsis</text>
+        </name>
+        <synonym>
+          <text>Polysyndeton</text>
+          <transcription>[ˌpɒlɪˈsɪndɪtən]</transcription>
+        </synonym>
+        <description>Use of several conjunctions</description>
+        <context>He thought, and thought, and thought…</context>
+    </term>
+    <term>
+        <name>
+          <text>Anaphora</text>
+        </name>
+        <description>Repetition of a word at the beginning clauses, sentences, verses</description>
+        <context>No tree, no shrub, no blade of grass…</context>
+    </term>
+    <term>
+        <name>
+          <text>Enjambment</text>
+          <transcription>[ɪnˈdʒæmmənt]</transcription>
+        </name>
+        <description>Running on of one thought into the next line, couplet or stanza without breaking the syntactical pattern.</description>
+        <context>“A thing of beauty is a joy forever: Its loveliness increases; it will never Pass into nothingness but still will keep…”</context>
+    </term>
+    <term>
+        <name>
+          <text>Asyndeton</text>
+        </name>
+        <description>Omission of conjunction</description>
+        <context>“Consciousness of place came ebbing back to him slowly over a vast tract of time unlit, unfelt, unlived…..”</context>
+    </term>
+    <term>
+        <name>
+          <text>Zeugma</text>
+          <transcription>[ˈzjuːɡmə]</transcription>
+        </name>
+        <synonym>
+          <text>Syllepsis</text>
+        </synonym>
+        <description>Some part of speech relating to one noun is referred to another</description>
+        <context>He lost his hart and his temper</context>
+    </term>
+    <term>
+        <name>
+          <text>Chiasmus</text>
+          <transcription>[kaɪˈæzməs]</transcription>
+        </name>
+        <description>A reversal in the order of words in one of two parallel phrases</description>
+        <context>He went to the country, to the town went she.</context>
+    </term>
+    <term>
+        <name>
+          <text>Ellipsis</text>
+        </name>
+        <description>Omission of words needed to complete the construction of the sense</description>
+        <context>Tomorrow at 1:30</context>
+    </term>
+    <term>
+        <name>
+          <text>Antithesis</text>
+        </name>
+        <description>Choice or arrangement of words that emphasises a contrast</description>
+        <context>Give me liberty or give me death</context>
+    </term>
+    <term>
+        <name>
+          <text>Anastrophe</text>
+        </name>
+        <description>The upsetting for effect of the normal order of the words (or just inversion)</description>
+        <context>Me he restored, him he hanged.</context>
+    </term>
+    <term>
+        <name>
+          <text>Onomatopoeia</text>
+          <transcription>[ˌɒnəmætəˈpiːə]</transcription>
+        </name>
+        <description>Direct and indirect</description>
+        <context>Ding-dong, tinkle</context>
+    </term>
+    <term>
+        <name>
+          <text>Alliteration</text>
+        </name>
+        <description>Initial rhyme</description>
+        <context>To rob Peter to pay Paul</context>
+    </term>
+    <term>
+        <name>
+          <text>Rhyme</text>
+        </name>
+        <description>A repetition of similar sounds (or the same sound) in two or more words, most often in the final syllables of lines in poems and songs.</description>
+        <context>Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full!</context>
+    </term>
+    <term>
+        <name>
+          <text>Rhythm</text>
+        </name>
+        <description>Literary device which demonstrates the long and short patterns through stressed and unstressed syllables particularly in verse form.</description>
+        <context>Shall I compare thee to a summer’s day? _U _U _U _U _U</context>
+    </term>
+    <term>
+        <name>
+          <text>Irony</text>
+        </name>
+        <description>Words are used in such a way that their intended meaning is different from the actual meaning of the words.</description>
+        <context>The butter is as soft as a marble piece.</context>
+    </term>
+    <term>
+        <name>
+          <text>Polysemy</text>
+        </name>
+        <description>The association of one word with two or more distinct meanings</description>
+        <context>“Just  do it” (Nike’s slogan)</context>
+    </term>
+    <term>
+        <name>
+          <text>Pun</text>
+        </name>
+        <description>A play on words in which a humorous effect is produced by using a word that suggests two or more meanings or by exploiting similar sounding words having different meanings.</description>
+        <context>We will dye for you (a slogan of clothes colouring company)</context>
+    </term>
+    <term>
+        <name>
+          <text>Antonomasia</text>
+          <transcription>[ˌæntɒnəˈmeɪzɪə]</transcription>
+        </name>
+        <description>The use of a proper name in place of a common one or vice versa to emphasize some feature or quality</description>
+        <context>Mr. Facing-Both-Ways does not very fear in this world.</context>
+    </term>
+    <term>
+        <name>
+          <text>Simile</text>
+        </name>
+        <description>A comparison, showing similarities between two different things.</description>
+        <context></context>
+    </term>
+    <term>
+        <name>
+          <text>Periphrasis</text>
+          <transcription>[pəˈrɪfrəsɪs]</transcription>
+        </name>
+        <description>The use of excessive and longer words to convey a meaning which could have been conveyed with a shorter expression or in a few words.</description>
+        <context>The fair sex - women</context>
+    </term>
+    <term>
+        <name>
+          <text>Euphemism</text>
+        </name>
+        <description>Polite, indirect expressions which replace words and phrases considered harsh and impolite or which suggest something unpleasant.</description>
+        <context>To go to heaven – to die</context>
+    </term>
+    <term>
+        <name>
+          <text>Hyperbole</text>
+        </name>
+        <description>Exaggeration of ideas for the sake of emphasis.</description>
+        <context>The  Earth was made for Dombey and son to trade…</context>
+    </term>
+    <term>
+        <name>
+          <text>Cliches</text>
+        </name>
+        <description>An expression that has been overused to the extent that it loses its original meaning or novelty.</description>
+        <context>Crushing defeat</context>
+    </term>
+    <term>
+        <name>
+          <text>Proverbs</text>
+        </name>
+        <description>A brief, simple and popular saying, or a phrase that gives advice and effectively embodies a commonplace truth based on practical experience or common sense.</description>
+        <context>He said, milk’s spilt.</context>
+    </term>
+    <term>
+        <name>
+          <text>Epigrams</text>
+        </name>
+        <description>A memorable, brief, interesting and surprising satirical statement.</description>
+        <context>A thing of beauty is joy for ever. (Ketas)</context>
+    </term>
+    <term>
+        <name>
+          <text>Quotations</text>
+        </name>
+        <description>The repetition of one expression as part of another one</description>
+        <context>Ecclesiastes said, “that all is vanity”.</context>
+    </term>
+    <term>
+        <name>
+          <text>Allusions</text>
+        </name>
+        <description>A brief and indirect reference to a person, place, thing or idea of historical, cultural, literary or political significance.</description>
+        <context>Don’t act like Romeo in front of her!</context>
+    </term>
+    <term>
+        <name>
+          <text>Decomposition of set phrases</text>
+        </name>
+        <description>Set phrase - a phrase whose parts are fixed in a certain order, even if the phrase could be changed without harming the literal meaning.</description>
+        <context>You know which side the law’s buttered.</context>
+    </term>
+    <term>
+        <name>
+          <text>Inversion</text>
+        </name>
+        <description>A reversal of normal order of words in a sentence</description>
+        <context>A tone of most extravagant comparison Miss Tox said it in.</context>
+    </term>
+    <term>
+        <name>
+          <text>Detached constructions</text>
+        </name>
+        <description>A seemingly independent part of a sentence carries some additional information</description>
+        <context>She was lovely: all of her – delightful.</context>
+    </term>
+    <term>
+        <name>
+          <text>Parallel constructions</text>
+        </name>
+        <description>The use of identical or similar parallel syntactical structure in two or more sentences or their parts</description>
+        <context>The seeds ye sow — another reaps,
+The robes ye weave—another wears,
+The arms ye forge—another bears.
+        </context>
+    </term>
+    <term>
+        <name>
+          <text>Chiasmus</text>
+        </name>
+        <description>Inversion of the second of two parallel constructions</description>
+        <context>In the days of old men made manners, manners now make men (Byron)</context>
+    </term>
+    <term>
+        <name>
+          <text>Enumeration</text>
+        </name>
+        <description>Homogenous parts of a sentence are made semantically heterogeneous.</description>
+        <context>The principal production of these towns… appear to be soldiers, sailors, Jews, chalk, shrimps, officers, and dock-yard-men.</context>
+    </term>
+    <term>
+        <name>
+          <text>Suspense</text>
+        </name>
+        <description>Withholding the most important information or idea till the end of a sentence, paragraph, text.</description>
+        <context>Know ye the land where the cypress and myrtle</context>
+    </term>
+    <term>
+        <name>
+          <text>Climax</text>
+        </name>
+        <description>A rhetorical series of ideas, images arranged progressively so that the most forceful is last</description>
+        <context>They looked at hundred of houses, they climbed thousands of stars, they inspected innumerable kitchens. (Maugham)</context>
+    </term>
+    <term>
+        <name>
+          <text>Antithesis</text>
+        </name>
+        <description>Opposition of ideas in the parts of a sentence/different sentences.</description>
+        <context>Youth is lovely – age is lonely; youth is fiery – age is frost. (Longfellow)</context>
+    </term>
+    <term>
+        <name>
+          <text>Asyndeton</text>
+          <transcription>[æˈsɪndɪtən]</transcription>
+        </name>
+        <description>The omission of conjunctions</description>
+        <context>Soams turned away; he had an utter disinclination for talk, like one standing before an open grave… (Galsworthy)</context>
+    </term>
+    <term>
+        <name>
+          <text>Polysyndeton</text>
+          <transcription>[ˌpɒlɪˈsɪndɪtən]</transcription>
+        </name>
+        <description>The use of a number of conjunctions in close session</description>
+        <context>The heaviest rain, and snow, and hail, and sleet, could boast of the advantage over him in only one respect. (Dickens)</context>
+    </term>
+    <term>
+        <name>
+          <text>Gap-sentence link</text>
+        </name>
+        <description>Seemingly incoherent connection of two sentences based on an unexpected semantic leap</description>
+        <context>It was an afternoon to dream. And she took out John’s letters. (Galsworthy) </context>
+    </term>
+    <term>
+        <name>
+          <text>Ellipsis</text>
+        </name>
+        <description>All sorts of omission in a sentence.</description>
+        <context>Nothing so difficult as a beginning; how soft the chin which bears his touch. (Byron)</context>
+    </term>
+    <term>
+        <name>
+          <text>Aposiopesis</text>
+          <transcription>[əˈpəusɪoˈpiːsɪs]</transcription>
+        </name>
+        <description>A sudden breaking off in the midst of a sentence as if from inability or unwillingness to proceed</description>
+        <context>Good intentions but -; You just come home or I’ll…</context>
+    </term>
+    <term>
+        <name>
+          <text>Represented speech</text>
+        </name>
+        <description>Is that form of utterance which conveys the actual words of the speaker through the mouth of the writer but retains the peculiarities of the speaker's mode of expression.</description>
+        <context>Over and over he asked himself: would she receive him?</context>
+    </term>
+    <term>
+        <name>
+          <text>Rhetorical question</text>
+        </name>
+        <description>A figure of speech in the form of a question that is asked in order to make a point rather than to elicit an answer.</description>
+        <context>How long must we suffer? Where is the end? (Norris)</context>
+    </term>
+    <term>
+        <name>
+          <text>Litotes</text>
+          <transcription>[ˈlaɪtə(ʊ)tiːz]</transcription>
+        </name>
+        <description>Understatement for effect, esp. that in which an affirmative is expressed by negation of the contrary.</description>
+        <context>He was no gentle lamb (London)</context>
+    </term>
+</dictionary>

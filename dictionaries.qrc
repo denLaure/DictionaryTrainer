@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/dictionaries">
+        <file>data/0-dictionary-terms.xml</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>qml/actions/ActionTypes.qml</file>
+        <file>qml/actions/AppActions.qml</file>
+        <file>qml/actions/qmldir</file>
+        <file>qml/adapters/StoreAdapter.qml</file>
+        <file>qml/scripts/PageOpenerScript.qml</file>
+        <file>qml/store/qmldir</file>
+        <file>qml/store/TermInformationStore.qml</file>
+        <file>qml/store/TestStore.qml</file>
+        <file>qml/android-only/dictionary_trainer.qml</file>
+        <file>qml/android-only/views/pages/AndroidPage.qml</file>
+        <file>qml/android-only/views/pages/DictionaryScreen.qml</file>
+        <file>qml/android-only/views/pages/InfoAboutTerm.qml</file>
+        <file>qml/android-only/views/pages/ListOfTerms.qml</file>
+        <file>qml/android-only/views/pages/OpenAnswerTestPage.qml</file>
+        <file>qml/android-only/views/pages/QuestionResult.qml</file>
+        <file>qml/android-only/views/pages/SingleCorrectDefinitionTestPage.qml</file>
+        <file>qml/android-only/views/pages/SingleCorrectTermTestPage.qml</file>
+        <file>qml/android-only/views/components/AnswerComponent.qml</file>
+        <file>qml/android-only/views/components/AnswerSign.qml</file>
+        <file>qml/android-only/views/components/StackView.qml</file>
+        <file>qml/android-only/views/components/TermOption.qml</file>
+        <file>qml/android-only/views/components/TestPageToolBar.qml</file>
+        <file>qml/android-only/views/components/MaterialCard.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/ic_check_black_24dp.png</file>
+        <file>icons/ic_close_black_24dp.png</file>
+        <file>icons/ic_radio_button_unchecked_black_24dp.png</file>
+        <file>icons/ic_arrow_back_white_24dp.png</file>
+        <file>icons/86x86/harbour-dictionary-trainer.png</file>
+        <file>icons/108x108/harbour-dictionary-trainer.png</file>
+        <file>icons/128x128/harbour-dictionary-trainer.png</file>
+        <file>icons/256x256/harbour-dictionary-trainer.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>translations/harbour-dictionary-trainer-ru.qm</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
